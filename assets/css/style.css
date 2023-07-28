@@ -1,0 +1,13 @@
+.outerBlock {
+  border: 5px solid blue;
+}
+
+.innerBlock {
+  border: 5px solid red;
+}
+
+.flexParent {
+}
+
+.flexChild {
+}
