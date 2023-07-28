@@ -1,5 +1,6 @@
 .outerBlock {
   border: 5px solid blue;
+  height: 400px;
 }
 
 .innerBlock {
@@ -7,7 +8,22 @@
 }
 
 .flexParent {
+  display: flex;
+  flex-direction: column-reverse;
+  /* justify-content: space-between;
+  align-items: center; */
 }
 
-.flexChild {
+.flexChild1 {
+  /* align-self: flex-end; */
+}
+
+.flexChild2 {
+}
+
+.flexChild3 {
+}
+
+.flexChild4 {
+  /* align-self: flex-start; */
 }
