@@ -1,3 +1,35 @@
 * {
   box-sizing: border-box;
 }
+
+.usersList {
+  padding: 10px;
+}
+
+.use img {
+  width: 10%;
+  height: 10%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid rosybrown;
+}
+
+.usersListItem {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid grey;
+  box-shadow: 0 0 5px grey;
+}
+
+.usersListItem + .usersListItem {
+  margin-top: 10px;
+}
+
+svg {
+  margin-left: auto;
+}
+
+div {
+  margin: 0 10px;
+}
