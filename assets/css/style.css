@@ -14,6 +14,7 @@
 .innerBlock {
   border: 5px solid red;
   padding: 5px;
+  width: 20%;
 }
 
 .flexParent {
