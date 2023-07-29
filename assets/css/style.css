@@ -6,7 +6,7 @@
   padding: 10px;
 }
 
-.use img {
+img {
   width: 10%;
   height: 10%;
   object-fit: cover;
@@ -26,7 +26,7 @@
   margin-top: 10px;
 }
 
-svg {
+i {
   margin-left: auto;
 }
 
